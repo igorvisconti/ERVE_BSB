@@ -1,0 +1,10 @@
+{
+  "name": "qgis2web_2025_11_07-01_23_02_733962",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
